@@ -131,7 +131,7 @@ export default function Footer() {
                 UTILITY PAGES
               </h4>
               <ul className="space-y-3">
-                {['STYLE GUIDE', 'LICENCES', 'CHANGELOG', '404', 'PASSWORD'].map((item) => (
+                {['STYLE GUIDE', 'LICENCES', 'CHANGELOG'].map((item) => (
                   <li key={item}>
                     <span className="text-gray-400 text-sm" style={{ fontFamily: 'Space Grotesk, sans-serif' }}>
                       {item}

@@ -18,7 +18,7 @@ const megaMenuCols = [
   },
   {
     links: [
-      { label: 'CARS TEMPLATE', href: '/car/lamborghini-urus' },
+      { label: 'CARS TEMPLATE', href: '/showroom' },
       { label: 'CAR MAKES TEMPLATE', href: '/showroom?make=Ferrari' },
       { label: 'CAR TYPES TEMPLATE', href: '/showroom?type=SUV' },
       { label: 'CAR CONDITIONS TEMPLATE', href: '/showroom?condition=Used' },
@@ -30,8 +30,6 @@ const megaMenuCols = [
       { label: 'STYLE GUIDE', href: '/style-guide' },
       { label: 'LICENCES', href: '/licences' },
       { label: 'CHANGELOG', href: '/changelog' },
-      { label: '404', href: '/404' },
-      { label: 'PASSWORD', href: '/password' },
     ],
   },
 ];
